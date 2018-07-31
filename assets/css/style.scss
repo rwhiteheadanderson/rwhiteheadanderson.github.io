@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+.wrapper {
+  width:860px;
+  margin:0 auto;
+  overflow: hidden;
+  background-image: url("./images/key_west_topo_2.jpg");
+}
