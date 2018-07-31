@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# Graduate Students and Teaching
+# Teaching
+**[home](./index.md)** |
 
 I have taught a number of undergraduate  and graduate courses in the area of GIS, wildlife ecology, forestry, environmental seminars and quantitative geography. Below is a list of courses I have taught and/or developed curriculum for.
 

@@ -2,6 +2,7 @@
 layout: default
 ---
 # Research
+**[home](./index.md)** |
 
 My current research interests include issues in wildlife ecology, with special attention paid to urban wildlife species and how they interact with and adapt to human environments. Specifically, my research seeks to quantify wildlife-road interactions by developing new techniques incorporating space and time dynamics as central analysis components. These methods are based in **time geography, spatial optimization, suitability modelling, network analysis, point pattern analysis,** and **movement analysis** theories and practice. Additionally, I apply these techniques outside ecological inquiries towards questions of **public health** and **sustainability.** Other research interests surround issues in **landscape ecology** with emphasis on quantifying habitat fragmentation in landscapes impacted by roads and other anthropogenic disturbances. This research is conducted in efforts to better quantify habitat fragmentation; developments thus far include a series of original road-based landscape metrics, enabling more accurate fragmentation measures over multiple spatio-temporal scales.
 
