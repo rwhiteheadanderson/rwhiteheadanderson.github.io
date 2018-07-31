@@ -2,7 +2,7 @@
 layout: default
 ---
 # About Me
-**[home](./index.md)** |
+**[Home](./index.md)** |
 
 About Myself:
 

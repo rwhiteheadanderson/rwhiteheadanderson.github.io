@@ -2,4 +2,4 @@
 layout: default
 ---
 # Graduate Students
-**[home](./index.md)**
+**[Home](./index.md)** |

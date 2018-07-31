@@ -2,4 +2,4 @@
 layout: default
 ---
 # Publications
-**[home](./index.md)** |
+**[Home](./index.md)** |
