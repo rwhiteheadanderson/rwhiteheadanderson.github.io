@@ -14,7 +14,7 @@ layout: default
 GIS, wildlife management, environmental sustainability
 
 **Email:**
-ashley.n.ciarlante-1@ou.edu
+<ashley.n.ciarlante-1@ou.edu>
 
 ## Monica Mustain
 
@@ -26,7 +26,7 @@ ashley.n.ciarlante-1@ou.edu
 GIS, transportation geography, urban planning, pedestrian network modeling
 
 **Email:**
-mustain@ou.edu
+<mustain@ou.edu>
 
 ## Kelsey Warren-Bryant
 
@@ -38,7 +38,7 @@ mustain@ou.edu
 Wildlife ecology, Wildlife management
 
 **Email:**
-kwarrenbryant@ou.edu
+<kwarrenbryant@ou.edu>
 
 ## Lora LaPree
 
@@ -47,7 +47,7 @@ kwarrenbryant@ou.edu
 * B.S. Geography-Resource & Environmental Studies, Anthropology; Texas State
 
 **Email:**
-lora.lapree@ou.edu
+<lora.lapree@ou.edu>
 
 **Research**
 GIS, Biogeography, Wildlife Movement
@@ -59,7 +59,7 @@ GIS, Biogeography, Wildlife Movement
 * B.S. Zoology/Environmental Science and Geography minor, Miami University (2016)
 
 **Email:**
-burchcm@ou.edu
+<burchcm@ou.edu>
 
 **Research**
 GIS, Human-Wildlife Interactions, Wildlife Movement
