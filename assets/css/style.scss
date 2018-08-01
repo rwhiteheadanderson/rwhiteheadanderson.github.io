@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.bg{
+  background-image: url("./images/key_west_topo_2.jpg");
+  background-size: cover;
+  background-position: center;
+}
