@@ -5,7 +5,6 @@ layout: default
 
 **[Bio](./bio.md)** |
 **[Research](./research.md)** |
-**[Publications](./publications.md)** |
 **[Teaching](./teaching.md)** |
 **[Graduate Students](./graduate_students.md)** |
 
