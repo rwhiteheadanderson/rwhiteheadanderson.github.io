@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Welcome! These pages are under construction.
 
 **[Bio](./bio.md)** |
 **[Research](./research.md)** |
