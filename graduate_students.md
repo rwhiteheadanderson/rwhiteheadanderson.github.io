@@ -6,6 +6,8 @@ layout: default
 
 ## Ashley N. Ciarlante
 
+![Ashley N. Ciarlante](/images/ashley.jpg)
+
 **Education**
 * MS Environmental Sustainability, University of Oklahoma (In progress)
 * BS Wildlife Ecology and Conservation, University of Florida (2011)
@@ -17,6 +19,8 @@ GIS, wildlife management, environmental sustainability
 <ashley.n.ciarlante-1@ou.edu>
 
 ## Monica Mustain
+
+![Monica Mustain](/images/monica.jpg)
 
 **Education:**
 * B.S. Geology, Illinois State University (2013)
@@ -30,6 +34,8 @@ GIS, transportation geography, urban planning, pedestrian network modeling
 
 ## Kelsey Warren-Bryant
 
+![Kelsey Warren-Bryant](/images/kelsey.jpg)
+
 **Education:**
 * MS Environmental Sustainability, University of Oklahoma (2017)
 * BA History, University of Sciences and Arts of Oklahoma (2013)
@@ -42,6 +48,8 @@ Wildlife ecology, Wildlife management
 
 ## Lora LaPree
 
+![Lora LaPree](/images/lora.jpg)
+
 **Education**
 * MS Geography, University of Oklahoma (In progress)
 * B.S. Geography-Resource & Environmental Studies, Anthropology; Texas State
@@ -53,6 +61,8 @@ Wildlife ecology, Wildlife management
 GIS, Biogeography, Wildlife Movement
 
 ## Claire Burch
+
+![Claire Burch](/images/claire.jpg)
 
 **Education**
 * MS Environmental Sustainability, University of Oklahoma (In progress)
