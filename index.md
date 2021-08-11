@@ -5,6 +5,7 @@ layout: default
 **[Bio](./bio.md)** |
 **[Research](./research.md)** |
 **[Teaching](./teaching.md)** |
+**[Service](./service.md)** |
 **[Graduate Students](./graduate_students.md)** |
 
 **Email:** <rloraamm@ou.edu>
