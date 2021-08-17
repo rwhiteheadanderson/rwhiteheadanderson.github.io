@@ -16,5 +16,5 @@ I have taken an active role in several professional service appointments. At the
 - *Journal of Applied Sciences*
 - *Journal of Remote Sensing*
 - *Sustainability*
-- *Southeastern Geographer*
+- *Southeastern Geographer (Editorial Board)*
 
