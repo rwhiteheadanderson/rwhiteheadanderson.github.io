@@ -11,7 +11,7 @@ My **contributions to the basic methodological literature** in my field include 
 
 ## Publications
 
-- **Rebecca Loraamm** and Monica Mustain (2021). Social Deprivation and the Performance of Pedestrian Infrastructure for School Children: Identifying Need in the Putnam City School District, Oklahoma City, Oklahoma. *Professional Geographer*, in press.
+- **Rebecca Loraamm** and Monica Mustain (2021). Social Deprivation and the Performance of Pedestrian Infrastructure for School Children: Identifying Need in the Putnam City School District, Oklahoma City, Oklahoma. *Professional Geographer*, 74(2) 231-245. https://doi.org/10.1080/00330124.2021.2007492
 
 - **Rebecca Loraamm**, James Anderson, Claire Burch. (2021). Identifying Road Avoidance Behavior using Time-Geography for Red Deer in Banff National Park, Alberta, Canada. *Transactions in GIS*, 25(3), 1331–1346. https://onlinelibrary.wiley.com/doi/10.1111/tgis.12748 
 
