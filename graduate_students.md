@@ -36,7 +36,7 @@ Human-environment interactions, renewable energy, human dimensions of natural re
 
 ## Martin Kusi Manu
 
-<p align="center"
+<p align="center">
   <img width="349" height="243" src="./images/martin.jpg" alt="Martin Kusi Manu">
 </p>
 
