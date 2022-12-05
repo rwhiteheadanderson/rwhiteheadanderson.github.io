@@ -34,6 +34,21 @@ Urban ecology, human-wildlife interaction, sustainable natural resource manageme
 **Research:**
 Human-environment interactions, renewable energy, human dimensions of natural resource management
 
+## Martin Kusi Manu
+
+<p align="center"
+  <img width="349" height="243" src="./images/martin.jpg" alt="Martin Kusi Manu">
+</p>
+
+**Education:**
+* PhD Geography and Environmental Sustainability, University of Oklahoma (2022-present)
+* M.S.Geo-Information Science and Earth Observation, University of Twente/ Netherlands
+* B.S. Natural Resources Management (Wildlife Management), Kwame Nkrumah University of Science and Technology/Ghana
+* Diploma Natural Resources Management (Forest Silviculture), Kwame Nkrumah University of Science and Technology/Ghana
+
+**Research:**
+Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and Animal Distribution 
+
 # Masters Students
 
 ## Kari Goold
