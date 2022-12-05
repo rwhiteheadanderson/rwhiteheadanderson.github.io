@@ -42,7 +42,7 @@ Human-environment interactions, renewable energy, human dimensions of natural re
 
 **Education:**
 * PhD Geography and Environmental Sustainability, University of Oklahoma (2022-present)
-* M.S.Geo-Information Science and Earth Observation, University of Twente/ Netherlands
+* M.S. Geo-Information Science and Earth Observation, University of Twente/ Netherlands
 * B.S. Natural Resources Management (Wildlife Management), Kwame Nkrumah University of Science and Technology/Ghana
 * Diploma Natural Resources Management (Forest Silviculture), Kwame Nkrumah University of Science and Technology/Ghana
 
