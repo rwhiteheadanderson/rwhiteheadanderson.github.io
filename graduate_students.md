@@ -47,7 +47,21 @@ Human-environment interactions, renewable energy, human dimensions of natural re
 * Diploma Natural Resources Management (Forest Silviculture), Kwame Nkrumah University of Science and Technology/Ghana
 
 **Research:**
-Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and Animal Distribution 
+Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and Animal Distribution
+
+## Kritika Pathak
+
+<p align="center">
+  <img width="349" height="243" src="./images/kritika.jpg" alt="Kritika Pathak">
+</p>
+
+**Education:**
+* PhD Geography and Environmental Sustainability, University of Oklahoma (2022-present)
+* M.S. Water resource and Policy Analysis, East Central University, Ada, Oklahoma
+* B.S. Environmental Science, Xavier International College, Kathmandu, Nepal
+
+**Research:**
+Sustainable Management, Climate Change, Water Resource Management, GIS 
 
 # Masters Students
 
