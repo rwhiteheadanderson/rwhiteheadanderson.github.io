@@ -49,6 +49,8 @@ Human-environment interactions, renewable energy, human dimensions of natural re
 **Research:**
 Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and Animal Distribution
 
+# Masters Students
+
 ## Kritika Pathak
 
 <p align="center">
@@ -56,14 +58,12 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 </p>
 
 **Education:**
-* PhD Geography and Environmental Sustainability, University of Oklahoma (2022-present)
+* M.S. Geography, University of Oklahoma (2022-present)
 * M.S. Water resource and Policy Analysis, East Central University, Ada, Oklahoma
 * B.S. Environmental Science, Xavier International College, Kathmandu, Nepal
 
 **Research:**
-Sustainable Management, Climate Change, Water Resource Management, GIS 
-
-# Masters Students
+Sustainable Management, Climate Change, Water Resource Management, GIS
 
 ## Kari Goold
 
