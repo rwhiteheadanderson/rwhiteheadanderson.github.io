@@ -52,7 +52,7 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 ## Kritika Pathak
 
 <p align="center">
-  <img width="349" height="243" src="./images/kritika.jpg" alt="Kritika Pathak">
+  <img width="303" height="404" src="./images/kritika.jpg" alt="Kritika Pathak">
 </p>
 
 **Education:**
