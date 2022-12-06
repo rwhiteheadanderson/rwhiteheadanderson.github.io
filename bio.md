@@ -6,7 +6,7 @@ layout: default
 
 About Myself:
 
-I am an Assistant Professor at the University of Oklahoma Geography and Environmental Sustainability department. I identify as both a GIScientist and Geographer; I was trained as a biologist, ecologist, and environmental scientist over the course of my undergraduate and graduate programs. My research agenda centers on the use of Geographic Information Systems for the treatment of ecological research questions. My methodological focus is on animal movement and spatial analysis and modeling of ecological systems, with a focus on movement science. I'm particularly interested in the interactions between human activities and wildlife and the development of GIS-based strategies for mitigating related conflicts.
+I am an Associate Professor at the University of Oklahoma Geography and Environmental Sustainability department. I identify as both a GIScientist and Geographer; I was trained as a biologist, ecologist, and environmental scientist over the course of my undergraduate and graduate programs. My research agenda centers on the use of Geographic Information Systems for the treatment of ecological research questions. My methodological focus is on animal movement and spatial analysis and modeling of ecological systems, with a focus on movement science. I'm particularly interested in the interactions between human activities and wildlife and the development of GIS-based strategies for mitigating related conflicts.
 
 Education:
 
