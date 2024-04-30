@@ -51,6 +51,17 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 
 # Masters Students
 
+## Akpoezi Rose Ononeme
+<p align="center">
+  <img width="303" height="404" src="./images/rose.jpg" alt="Rose Ononeme">
+</p>
+
+**Education:**
+* M.S. Geography, University of Oklahoma (2022-present)
+
+**Research:**
+Time Geography, Animal Movement, Human-Animal Interaction, GIS
+
 ## Kritika Pathak
 
 <p align="center">
