@@ -53,7 +53,7 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 
 ## Akpoezi Rose Ononeme
 <p align="center">
-  <img width="303" height="404" src="./images/rose.jpg" alt="Rose Ononeme">
+  <img width="303" height="404" src="./images/rose.JPEG" alt="Rose Ononeme">
 </p>
 
 **Education:**
