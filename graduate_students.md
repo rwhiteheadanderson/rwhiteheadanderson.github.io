@@ -51,6 +51,19 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 
 # Masters Students
 
+## Mackenzie S. Peace
+<p align="center">
+  <img width="303" height="404" src="./images/mackenzie.jpg" alt="Mackenzie Peace">
+</p>
+
+**Education:**
+* M.S. Geography, University of Oklahoma (2022-present)
+* B.S. Anthropology and Geography with a Specialization in Geography, Coastal Carolina University (2023)
+* Certificate in Geospatial Technologies, Coastal Carolina University (2023)
+
+**Research:**
+Habitat Conservation, Remote Sensing, Nonhuman Primate Behavior, and Spatial Ecology
+
 ## Akpoezi Rose Ononeme
 <p align="center">
   <img width="303" height="404" src="./images/rose.JPEG" alt="Rose Ononeme">
