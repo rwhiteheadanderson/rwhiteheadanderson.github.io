@@ -57,7 +57,7 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 </p>
 
 **Education:**
-* M.S. Geography, University of Oklahoma (2022-present)
+* M.S. Geography, University of Oklahoma (2024-present)
 * B.S. Anthropology and Geography with a Specialization in Geography, Coastal Carolina University (2023)
 * Certificate in Geospatial Technologies, Coastal Carolina University (2023)
 
