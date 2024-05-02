@@ -53,7 +53,7 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 
 ## Mackenzie S. Peace
 <p align="center">
-  <img width="303" height="404" src="./images/mackenzie.jpg" alt="Mackenzie Peace">
+  <img width="303" height="404" src="./images/mackenzie.jpeg" alt="Mackenzie Peace">
 </p>
 
 **Education:**
