@@ -70,7 +70,7 @@ Habitat Conservation, Remote Sensing, Nonhuman Primate Behavior, and Spatial Eco
 </p>
 
 **Education:**
-* M.S. Geography, University of Oklahoma (2022-present)
+* M.S. Geography, University of Oklahoma (2022-2024)
 
 **Research:**
 Time Geography, Animal Movement, Human-Animal Interaction, GIS
@@ -82,7 +82,7 @@ Time Geography, Animal Movement, Human-Animal Interaction, GIS
 </p>
 
 **Education:**
-* M.S. Geography, University of Oklahoma (2022-present)
+* M.S. Geography, University of Oklahoma (2022-2023)
 * M.S. Water resource and Policy Analysis, East Central University, Ada, Oklahoma
 * B.S. Environmental Science, Xavier International College, Kathmandu, Nepal
 
@@ -96,7 +96,7 @@ Sustainable Management, Climate Change, Water Resource Management, GIS
 </p>
 
 **Education:**
-* M.S. Geography, University of Oklahoma (2021-present)
+* M.S. Geography, University of Oklahoma (2021-2023)
 * BA in Anthropology with Minors in Criminal Justice and Sociology from the University of Nevada, Las Vegas (2021)
 
 **Research:**
