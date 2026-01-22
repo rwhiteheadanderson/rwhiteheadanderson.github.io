@@ -51,6 +51,18 @@ Conservation Ecology, GIS, Remote Sensing, Land Use/Land Cover Change, Plant and
 
 # Masters Students
 
+## Dristee Chad
+<p align="center">
+  <img width="303" height="404" src="./images/dristee.jpeg" alt="Dristee Chad">
+</p>
+
+**Education:**
+* M.S. Geography, University of Oklahoma (2026-present)
+* B.Sc. Forestry, Institute of Forestry, Tribhuvan University, Nepal (2023)
+
+**Research:**
+Wildlife Ecology, GIS & Remote Sensing, Spatiotemporal Ecology, Camera-Trap Monitoring, Habitat Modelling, Big Cat Ecology
+
 ## Mackenzie S. Peace
 <p align="center">
   <img width="303" height="404" src="./images/mackenzie.jpeg" alt="Mackenzie Peace">
